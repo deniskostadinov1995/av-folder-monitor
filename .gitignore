@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# Your settings, scan history and temporary scan report
+avg_monitor_config.json
+avg_monitor_history.db
+avg_temp_report.txt
